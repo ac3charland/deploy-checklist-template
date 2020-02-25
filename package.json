@@ -1,0 +1,19 @@
+{
+  "name": "deploy-checklist-template",
+  "version": "1.0.0",
+  "description": "A template for a Node CLI checklist to ensure successful deployments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac3charland/deploy-checklist-template.git"
+  },
+  "author": "Alex Charland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac3charland/deploy-checklist-template/issues"
+  },
+  "homepage": "https://github.com/ac3charland/deploy-checklist-template#readme"
+}
