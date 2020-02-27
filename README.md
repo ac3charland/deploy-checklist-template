@@ -10,4 +10,4 @@ While reflecting on the book, I realized that writing deploy tickets at my job i
 
 ### How It Works
 
-To use the checklist, run `node index.js` in your terminal. The program uses `inquirer` to gather the necessary information about which apps will be deployed, which versions of those apps should be deployed, when they should be deployed, and other details. It then creates a short, minimalist checklist for creating a deploy ticket for each app.
+To use the checklist, run `node index.js` in your terminal. The program uses `inquirer` to gather the necessary information about which apps will be deployed, which versions of those apps should be deployed, when they should be deployed, and other details. It then creates a short, minimalist checklist to assist the creation of a deploy ticket for each app.
