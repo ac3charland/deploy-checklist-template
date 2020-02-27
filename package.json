@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ac3charland/deploy-checklist-template/issues"
   },
-  "homepage": "https://github.com/ac3charland/deploy-checklist-template#readme"
+  "homepage": "https://github.com/ac3charland/deploy-checklist-template#readme",
+  "dependencies": {
+    "inquirer": "7.0.4",
+    "moment": "2.24.0"
+  }
 }
